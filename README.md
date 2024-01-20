@@ -1,2 +1,3 @@
 # EV_marketsegment_analysis
 Market segmentation plays a pivotal role in advancing the adoption of emerging transportation technologies, particularly electric vehicles (EVs), in developing markets.
+The widespread adoption of EVs is anticipated to experience remarkable growth in the near future due to their appeal as low-emission and cost-effective vehicles. Consequently, this trend has sparked significant interest in academic research. The primary objective of this study is to investigate and pinpoint unique groups of potential EV buyers through an integrated research framework that incorporates psychographic, behavioral, and socio-economic characteristics, focusing on the interplay of perceived benefits, attitudes, and intentions.
